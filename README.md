@@ -1,6 +1,6 @@
 # Excel_Dashboard_Projects
- **Project -1 
- FNP Sales Analysis Dashboard**
+** Project -1 **
+** FNP Sales Analysis Dashboard**
 This project presents a dynamic Sales Analysis Dashboard for FNP (Ferns N Petals), developed entirely using Microsoft Excel’s advanced data visualization capabilities including Pivot Tables, Slicers, Conditional Formatting, and Charts. It showcases meaningful business insights derived from transactional data collected via three datasets: customers.csv, orders.csv, and products.csv.
 
 **Objective**
